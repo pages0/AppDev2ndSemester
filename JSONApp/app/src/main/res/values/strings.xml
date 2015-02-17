@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">JSON App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="error_message">An error occured</string>
+    <string name="error_title">Error!</string>
+    <string name="no_items">no Devs!</string>
+</resources>
